@@ -1,6 +1,13 @@
-Building: `./mvnw clean compile` <br>
-Running: `./mvnw exec:java` <br>
-Testing: `./mvnw test`
+```shell
+# run
+brew tap bell-sw/liberica
+brew install --cask liberica-jdk15-full
+mvn clean compile
+mvn exec:java
+
+# test
+mvn test
+```
 
 <br><br>
 
