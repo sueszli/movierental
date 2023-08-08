@@ -50,7 +50,6 @@ mvn test
         with 2 additional functions (placed at the end).
     -   `MovieRentalController`: root page, initialized in `App.class`
     -   `RentalController`: tab for "Ausleihe / Rückgabe"
-        <br>
 
 - `ui/controls`:
 
