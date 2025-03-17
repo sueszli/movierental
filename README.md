@@ -1,3 +1,5 @@
+# Usage
+
 ```shell
 # run
 brew tap bell-sw/liberica
@@ -8,8 +10,6 @@ mvn exec:java
 # test
 mvn test
 ```
-
-<br><br>
 
 # Project structure
 
